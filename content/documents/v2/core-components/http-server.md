@@ -1004,7 +1004,7 @@ SaberGM::patch('http://httpbin.org/patch', ['foo' => 'bar']);
 Guzzle 老牌 HTTP 封装库，很多依赖都是它封装的。
 
 {{%alert note%}}
-swoole 版本必须 4.4 即以上
+swoole 版本必须 4.4 及以上
 {{%/alert%}}
 
 安装
